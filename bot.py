@@ -3,7 +3,7 @@ import threading
 import time
 import random
 
-C2_ADDRESS = "66.23.159.19"
+C2_ADDRESS = "127.0.0.1"
 C2_PORT = 6667
 
 base_user_agents = [
